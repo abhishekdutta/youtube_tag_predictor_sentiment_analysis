@@ -7,6 +7,7 @@ import string
 api_key = 'AIzaSyCrFWiPfGcb5IsyS-wpAMk6eaNdMaC8pXs'
 url =  'https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,recordingDetails&id='
 
+#strip punctuation
 regex = re.compile('[%s]' % re.escape(string.punctuation))
 
 #id, title, description, like count, dislike count, location, tags
@@ -46,4 +47,4 @@ with open('raw.json', 'rb') as f:
             title = regex.sub('', vid[1])
             descr = regex.sub('', vid[2])
 
-            writer.writerow([vid[0], title.encode('utf8'), descr.encode('utf8'), LC, DC, loc, tags.encode('utf-8')])
+            writer.writerow([vid[0], title.encode('utf8').decode('unicode_escape').encode('ascii','ignore'), descr.encode('utf8').decode('unicode_escape').encode('ascii','ignore'), LC, DC, loc, tags.encode('utf8').decode('unicode_escape').encode('ascii','ignore')])
