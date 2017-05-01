@@ -7,13 +7,13 @@ with open('videoStats.csv', 'rb') as c:
 
     with open('condensedStats.csv', 'wb') as f:
         writer = csv.writer(f)
-        writer.writerow(['Id', 'Title', 'Description', 'LikeCount', 'DislikeCount', 'Location (latitude, longitude)', 'Condensed Tags (comma delimited string)'])
+        writer.writerow(['Id', 'Title', 'Description', 'LikeCount', 'DislikeCount', 'Location (latitude, longitude)', 'Condensed Tags (; delimited string)'])
 
         s = Synonyms.load(open('syns.txt'))
 
         for row in reader:
             if row[6] != '':
-                l = row[6].split(',')
+                l = row[6].split(';')
 
                 for i in range(len(l)):
                     merge = s.match(l[i], ignoreCase=True)
@@ -21,6 +21,6 @@ with open('videoStats.csv', 'rb') as c:
                     if merge:
                         l[i] = merge
 
-                row[6] = ','.join(list(set(l)))
+                row[6] = ';'.join(list(set(l)))
 
             writer.writerow(row)
