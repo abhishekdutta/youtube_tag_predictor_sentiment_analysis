@@ -10,7 +10,7 @@ import urllib2
 import re
 import string
 
-api_key = 'AIzaSyCsE91PTD-XjTU3O_IZpY0PvVom2tw4Dr8'
+api_key = 'AIzaSyC4C3gzSSErzmc2FeUTleQqZGzw8-z-d6w'
     # AIzaSyCrFWiPfGcb5IsyS-wpAMk6eaNdMaC8pXs
     # AIzaSyDlZR2UhwQXeGw2IhCRnpoZB8LHZkagwI4
     # AIzaSyCXqjs2ZPb0PQReIWiENMAAkSx0_tvd4nk
@@ -25,7 +25,6 @@ url =  'https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoI
 # record: (Id, Title, Description, LikeCount, DislikeCount, location, tags)
 def mapper1(record):
     ratio = 0
-    print(record)
 
     if record[4] != '0':
         ratio = int(record[3])/int(record[4])
@@ -71,7 +70,11 @@ def main():
             regex = re.compile('[%s]' % re.escape(string.punctuation))
 
             for vid in topVids:
-                comments = json.load(urllib2.urlopen(url + vid[1][0] + '&key=' + api_key))
+                try:
+                    comments = json.load(urllib2.urlopen(url + vid[1][0] + '&key=' + api_key))
+                except:
+                    print(vid[1][0])
+                    continue
 
                 commentList = ''
 
