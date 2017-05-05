@@ -12,10 +12,14 @@ with open('videoStats.csv', 'rb') as c:
         s = Synonyms.load(open('syns.txt'))
 
         for row in reader:
+            row[1] = row[1].strip()
+            row[2] = row[2].strip()
+
             if row[6] != '':
                 l = row[6].split(';')
 
                 for i in range(len(l)):
+                    l[i] = l[i].strip()
                     merge = s.match(l[i], ignoreCase=True)
 
                     if merge:

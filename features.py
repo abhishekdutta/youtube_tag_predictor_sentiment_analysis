@@ -10,12 +10,22 @@ import urllib2
 import re
 import string
 
-api_key = 'AIzaSyCrFWiPfGcb5IsyS-wpAMk6eaNdMaC8pXs'
+api_key = 'AIzaSyCsE91PTD-XjTU3O_IZpY0PvVom2tw4Dr8'
+    # AIzaSyCrFWiPfGcb5IsyS-wpAMk6eaNdMaC8pXs
+    # AIzaSyDlZR2UhwQXeGw2IhCRnpoZB8LHZkagwI4
+    # AIzaSyCXqjs2ZPb0PQReIWiENMAAkSx0_tvd4nk
+    # AIzaSyCsE91PTD-XjTU3O_IZpY0PvVom2tw4Dr8
+    # AIzaSyArrhkh49b2GNlC8UdLodq3uSpKzcgdzeg
+    # AIzaSyCPcAKC74SzgQB8MSXKcPO6zIoVfqwlOig
+    # AIzaSyDBkoHdD1Iw6HooMhMoObbHFCXHFSwKzIU
+    # AIzaSyC4C3gzSSErzmc2FeUTleQqZGzw8-z-d6w
+
 url =  'https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId='
 
 # record: (Id, Title, Description, LikeCount, DislikeCount, location, tags)
 def mapper1(record):
     ratio = 0
+    print(record)
 
     if record[4] != '0':
         ratio = int(record[3])/int(record[4])
