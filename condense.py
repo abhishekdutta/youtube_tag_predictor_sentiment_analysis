@@ -22,6 +22,7 @@ with open('videoStats.csv', 'rb') as c:
                 for i in range(len(l)):
                     l[i] = l[i].replace('\r\n', '')
                     l[i] = l[i].replace('\n', '')
+                    l[i] = re.sub(r'href\S+', '', l[i])
                     merge = s.match(l[i], ignoreCase=True)
 
                     if merge:
