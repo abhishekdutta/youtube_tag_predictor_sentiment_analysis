@@ -9,6 +9,7 @@ import csv
 import urllib2
 import re
 import string
+import nltk
 
 api_key = 'AIzaSyC4C3gzSSErzmc2FeUTleQqZGzw8-z-d6w'
     # AIzaSyCrFWiPfGcb5IsyS-wpAMk6eaNdMaC8pXs
@@ -21,6 +22,8 @@ api_key = 'AIzaSyC4C3gzSSErzmc2FeUTleQqZGzw8-z-d6w'
     # AIzaSyC4C3gzSSErzmc2FeUTleQqZGzw8-z-d6w
 
 url =  'https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId='
+
+engWords = set(nltk.corpus.words.words())
 
 # record: (Id, Title, Description, LikeCount, DislikeCount, location, tags)
 def mapper1(record):
@@ -72,7 +75,8 @@ def main():
             for vid in topVids:
                 try:
                     comments = json.load(urllib2.urlopen(url + vid[1][0] + '&key=' + api_key))
-                except:
+                except Exception as e:
+                    print(e)
                     print(vid[1][0])
                     continue
 
@@ -83,7 +87,10 @@ def main():
 
                     for item in comments['items']:
                         if 'textDisplay' in item['snippet'].get('topLevelComment', {}).get('snippet', {}):
-                            thread.append(regex.sub('', item['snippet']['topLevelComment']['snippet']['textDisplay']))
+                            comm = re.sub(r'http\S+|www.\S+|href\S+', '', item['snippet']['topLevelComment']['snippet']['textDisplay'])
+                            date = item['snippet']['topLevelComment']['snippet']['publishedAt']
+                            # comm = ' '.join(w for w in nltk.wordpunct_tokenize(comm) if w.lower() in engWords or not w.isalpha())
+                            thread.append(regex.sub('', comm) + '|' + date)
 
                     commentList = ';'.join(thread)
 
