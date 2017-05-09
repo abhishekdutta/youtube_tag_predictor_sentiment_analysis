@@ -1,9 +1,9 @@
 # youtube-data-trends-predictor
-We are using YouTube videos to analyze and predict interesting trends with sentiment analysis
+We are using YouTube videos to analyze interesting trends and predict associated with each video and it's sentiment analysis
 
 
 ---------------------------------------------------------
-##        Prepocessing (Extraction and Cleaning), Machine Learning and Sentiment Analysis Model
+##        Back end (Part 2): Prepocessing (Extraction, Cleaning and Condensing), Machine Learning and Sentiment Analysis Model
 
 ##        Back end  <---
 ##    Files:  <code>ipython notebook/python</code>
@@ -24,7 +24,7 @@ We are using YouTube videos to analyze and predict interesting trends with senti
 ---------------------------------------------------------
 
 ---------------------------------------------------------
-##        Back end
+##        Back end (Part 1): Data Grabbing by YouTube API
 
 ## Back-end source code is here:
 
