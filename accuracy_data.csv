@@ -1,27 +1,3279 @@
 Label,Actual Number of Videos,Predicted Number of Videos
-YouTube Editor,1,1
-street vehicle toys,1,1
-wooden educational toys,1,1
-CNN,1,1
-CNN Newsroom,1,1
-CNN TV,1,1
-News,2,1
-default,1,1
-African Elephant Animal ,1,2
-Djuma Game Reserve Location ,1,2
-Giraffe Animal ,1,2
-Kruger National Park Protected Site ,1,2
-Leopard Animal ,1,2
-Lion Animal ,1,2
-Livestream Website ,1,2
-Safari Industry ,1,2
-Wildlife Film Subject ,1,2
-African Elephant Animal ,1,2
-Djuma Game Reserve Location ,1,2
-Giraffe Animal ,1,2
-Kruger National Park Protected Site ,1,2
-Leopard Animal ,1,2
-Lion Animal ,1,2
-Livestream Website ,1,2
-Safari Industry ,1,2
-Wildlife Film Subject ,1,2
+couple,5,2
+hilarious,6,2
+adventure,7,5
+baby,14,9
+bus,2,2
+cartoon,38,16
+chuck e cheese,2,2
+comedy,64,23
+daddy,3,2
+educational,6,2
+family,25,4
+family friendly,4,2
+family fun pack,2,2
+fisher price,2,2
+frozen,7,3
+game,23,14
+good,5,2
+happy,5,2
+learn,22,16
+little,4,2
+mask,2,2
+mouse,9,5
+paw patrol,8,7
+pig,8,6
+play,15,11
+playtime,3,2
+step2,2,2
+surprise,10,5
+toy,12,7
+toy story,3,3
+hair,5,1
+updo,1,1
+wedding,9,8
+baby,14,9
+baby feeding,1,1
+baby hazel,2,1
+cartoon,38,16
+cooking,6,3
+explorer,1,1
+frozen,7,3
+frozen anna,1,1
+fun,5,2
+girl,16,10
+hair salon,1,1
+little pony,1,1
+make,9,3
+nail salon,1,1
+pig,8,6
+princess,2,1
+sago,2,2
+slither io,1,1
+spa,1,1
+talking,3,3
+4,22,14
+grand theft auto v,1,1
+interactive entertainment,20,12
+android,4,3
+game,23,14
+2017,85,66
+4th may 2017,26,25
+colors,42,25
+episode,46,42
+full,6,6
+full episode,77,48
+latest,45,43
+may 4 day year,12,13
+preview,39,44
+serial,64,44
+shakti,16,5
+shakti 4th may 2017,2,3
+shakti full episode,9,5
+shakti full episode 4th may 2017,2,3
+shakti location,2,2
+shakti preview,3,3
+shakti serial,5,4
+today,41,40
+history,3,2
+university,1,1
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+black mob violence,6,6
+black white crime,6,6
+colin,7,6
+dont make black angry,6,6
+white girl bleed lot,6,6
+sesame,2,2
+street,2,2
+bad,3,2
+beat,4,1
+black,1,1
+de,2,1
+de rap,1,1
+drake,4,1
+hip,3,1
+hip hop culture,1,1
+hip hop instrumental base de rap,1,1
+hop,3,1
+instrumental,5,4
+para cantar rap,1,1
+producer,2,2
+rap,3,2
+rap battle,1,1
+rap instrumental,1,1
+studio,1,1
+tempo,2,2
+trap,5,1
+trap beat,1,1
+underground,3,1
+4,22,14
+interactive entertainment,20,12
+amar,1,1
+amar sir,1,1
+amar sir math,0,1
+math,1,1
+po,0,1
+quantitative aptitude,0,1
+sir,2,1
+al hasan,1,1
+cricket,4,1
+cricket 2017,1,1
+cricket news,2,1
+cricket news today,3,1
+cricket news update,1,1
+cricket news update 2017,1,1
+cricket team,1,1
+cricket today,1,1
+sports,5,1
+sports news,2,1
+sports news 71,1,1
+2017,85,66
+colors,42,25
+episode,46,42
+full episode,77,48
+full launch video,1,1
+latest,45,43
+latest news,11,4
+latest news today,2,1
+new serial,5,4
+news,148,59
+news latest,1,1
+preview,39,44
+romantic,24,18
+scene,5,3
+se,3,3
+se 4th may 2017,2,3
+se colors,4,3
+today,41,40
+twist,4,3
+upcoming,13,11
+new girl 6x19,1,1
+compilation,9,4
+funny,61,32
+new,47,18
+2017,85,66
+forest rain sound,4,4
+gentle rain,4,4
+rain roof,4,4
+rain shower,8,4
+rain shower sound,4,4
+rain sound,16,4
+rainy,11,4
+sound,10,6
+thunderstorm,12,4
+4,22,14
+interactive entertainment,20,12
+playstation4 edition,1,1
+ps4share,6,4
+black mob violence,6,6
+black white crime,6,6
+colin,7,6
+dont make black angry,6,6
+white girl bleed lot,6,6
+1 2 3 4 5 6 7 bmw8 m1 m2 m3 m4 m5,1,1
+a1,1,1
+a2,1,1
+a3,1,1
+a4,1,1
+a5,1,1
+a6,1,1
+a7,1,1
+a8,1,1
+car crash compilation,1,1
+m6 m7 stuck snow drift 20 30 v1 v2 v3 v4 v5 v6,1,1
+q7 q8 sq7 q5 rs3 s2,1,1
+rs4 rs5 rs6 rs7 rs8 q1 q2,0,1
+s3,1,1
+s3 s4 s5 s6 s7 s8,1,1
+s4,1,1
+s5,1,1
+s6,1,1
+s7,1,1
+s8,1,1
+s9 rs1 a9 q3 rs2,1,1
+ambassador,2,2
+crime,6,2
+diplomat,2,2
+diplomate,1,2
+environment,3,2
+esclavage,1,2
+movement,2,2
+national,11,2
+national anthem,2,2
+parliament,2,2
+patriot,2,2
+patriotic,2,2
+politics,18,4
+premier minister,1,2
+president,6,2
+prime minister,2,2
+senator,2,2
+slavery,2,2
+traffic,3,2
+un,3,2
+united,6,2
+bill,8,5
+debate,8,5
+election 2016,7,4
+fox news,10,3
+mike pence,9,3
+news,148,59
+news channel,8,4
+next news network,5,3
+presidential election,7,4
+trump,42,24
+confidence,1,1
+degree,1,1
+future,2,1
+marketing,2,1
+marketing career,1,1
+marketing graduate,1,1
+marketing major,1,1
+polytechnic,1,1
+successful,1,1
+baby,14,9
+branch,1,1
+candy,6,1
+crying,1,1
+funny,61,32
+poppy,2,1
+north,6,3
+trump,42,24
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+3rd may 2017,0,1
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+news,148,59
+serial,64,44
+today,41,40
+today episode,32,26
+upcoming,13,11
+colors,42,25
+full,6,6
+full episode,77,48
+harman,4,4
+preview,39,44
+shakti,16,5
+shakti 4th may 2017,2,3
+shakti colors,6,3
+shakti full episode,9,5
+shakti full episode 4th may 2017,2,3
+shakti serial,5,4
+watch shakti,2,2
+dont laugh,1,1
+funny,61,32
+laugh lose,1,1
+try laugh,2,1
+try laugh challenge,1,2
+try laugh grin,1,1
+tiger shroff,3,3
+tiger shroff dance,2,2
+angel,3,1
+angel guidance,1,1
+angel healing,1,1
+angel message,1,1
+angel messenger,1,1
+angel oracle,1,1
+angel reading,1,1
+archangel,6,1
+archangel healing meditation,1,1
+archangel prayer,1,1
+free angel card reading,1,1
+free angel reading,1,1
+free reading,1,1
+harper,1,1
+oracle,1,1
+psychic reading,1,1
+virtue,1,1
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+may 4 day year,12,13
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+star plus,26,22
+today,41,40
+today episode,32,26
+blake,4,3
+singing,2,1
+team,13,5
+team blake,2,2
+television,12,5
+voice,17,3
+voice 2017,3,3
+voice new season,3,3
+voice season 12,5,3
+old,7,3
+boss baby,5,3
+color,6,6
+colors,42,25
+colors learn,8,2
+finger family,8,6
+finger family nursery,3,2
+finger family nursery wrong,2,2
+gummy,6,1
+gummy bear,4,2
+learn,22,16
+masha,2,2
+masha bear,2,2
+paw patrol,8,7
+pig,8,6
+pig en,0,2
+wrong,2,2
+orbital fantasy,1,1
+video tutorial,3,2
+play,15,11
+twitch,9,5
+listening,1,1
+listening practice test 2017,1,1
+listening test,2,1
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+may 4 day year,12,13
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+star plus,26,22
+today,41,40
+trump,42,24
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+2017,85,66
+4th may 2017,26,25
+dev,2,2
+fat,20,14
+full episode,77,48
+latest,45,43
+may 4 day year,12,13
+new show,4,3
+rang,4,2
+rang 4th may 2017,1,1
+rang 4th may 2017 full episode,1,1
+rang full episode,2,2
+rang full episode 4th may 2017,1,1
+title song,2,2
+today episode,32,26
+jordan,2,1
+news,148,59
+2015,1,1
+2017,85,66
+soda,1,1
+2017,85,66
+boss,1,2
+entrepreneur,3,1
+financial freedom,1,1
+money,8,2
+tube,1,1
+twitter,6,1
+easter,5,2
+learn,22,16
+trucks,1,1
+video,34,9
+application,3,3
+entertainment,10,7
+free,12,3
+free mobile,4,4
+free streaming,4,4
+go 90,4,4
+go 90 video,4,4
+go90,5,4
+go90 original series,3,3
+mobile,10,4
+mobile video streaming,4,4
+social,4,4
+streaming,7,5
+animation,11,7
+bean,13,7
+bean funny,7,7
+ben,8,6
+cartoon,38,16
+cartoon network,6,6
+comedy,64,23
+entertainment television,6,6
+funny,61,32
+grey matter,6,6
+preview,39,44
+sab,6,6
+serial,64,44
+set,9,8
+star plus,26,22
+sunny hot,6,6
+sunny hot scene,6,6
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+may 4 day year,12,13
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+star plus,26,22
+today,41,40
+00,1,1
+01,1,1
+12u,1,1
+14u,1,1
+16u,1,1
+18u,1,1
+1st,2,1
+2016,11,9
+2017,85,66
+2018,1,1
+2019,1,1
+2020,1,1
+2021,1,1
+98,1,1
+99,1,1
+athletics,1,1
+bad,3,2
+best,24,7
+big,7,3
+ca,1,1
+cal,2,1
+catcher,1,1
+champion,3,1
+class,1,1
+combine,1,1
+division,1,1
+fast,2,1
+fat,20,14
+freshman,1,1
+game,23,14
+hard,2,1
+high school,8,8
+highlight,5,1
+home run,1,1
+la,2,1
+league,9,2
+play,15,11
+player,4,3
+premier,1,1
+racing,6,2
+recruit,1,1
+rise,1,1
+school,13,4
+scout,1,1
+shortstop,1,1
+showcase,3,2
+tournament,1,1
+triple crown,1,1
+utility,1,1
+varsity,1,1
+forest rain sound,4,4
+gentle rain,4,4
+rain roof,4,4
+rain shower,8,4
+rain shower sound,4,4
+rain sound,16,4
+rainy,11,4
+sound,10,6
+thunderstorm,12,4
+colors,42,25
+full,6,6
+full episode,77,48
+harman,4,4
+preview,39,44
+shakti,16,5
+shakti 4th may 2017,2,3
+shakti colors,6,3
+shakti full episode,9,5
+shakti full episode 4th may 2017,2,3
+shakti serial,5,4
+watch shakti,2,2
+18042017,1,1
+2017,85,66
+championship,2,1
+china,2,1
+gold,4,3
+hearthstone,2,2
+spring,4,1
+10,2,2
+big show,1,2
+funny,61,32
+life,16,8
+love,39,21
+mike,2,2
+randy,1,2
+raw,2,2
+reaction,6,2
+reaction video,1,2
+seth,2,3
+stone cold,1,1
+stunner,1,1
+tattoo,3,2
+tell,23,13
+top,11,5
+top 10,3,3
+top 10 raw,1,2
+top 10 raw reaction,1,2
+top 25 seth reaction,2,2
+undertaker savage,1,2
+world wrestling entertainment,3,2
+wrestling,4,2
+beauty,6,2
+cooking,6,3
+fashion,8,3
+floral,1,1
+home,9,3
+1080p,2,1
+4k,5,1
+marvel,3,2
+movie clip,1,1
+sucker punch,1,1
+sucker punch ending scene,1,1
+sucker punch fight scene,1,1
+sucker punch opening scene,1,1
+sucker punch scene,1,1
+superhero,4,2
+crisis negotiator,1,1
+drama,8,2
+luke,3,2
+ransom,1,1
+ransom cast,1,1
+ransom show cast,1,1
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+gayatri,3,3
+joshi,3,3
+khan,4,3
+latest,45,43
+news,148,59
+preview,39,44
+serial,64,44
+singh,6,4
+star plus,26,22
+today,41,40
+today episode,32,26
+upcoming,13,11
+video,34,9
+ye,3,3
+oh,3,3
+star,8,5
+colors,42,25
+learn,22,16
+learn colors,8,9
+learning,15,8
+20170404,1,1
+201744,1,1
+cheer,1,1
+dance,9,4
+sex,4,2
+2017,85,66
+bole,3,3
+bole 4th may 2017,1,2
+bole full episode,2,3
+bole preview,1,2
+bole serial,2,3
+bole star plus,3,3
+bole today,2,3
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+new,47,18
+om,2,2
+preview,39,44
+serial,64,44
+star plus,26,22
+tell,23,13
+today,41,40
+2017,85,66
+movie,15,7
+official,7,3
+trailer,17,11
+double pedal,1,1
+eliminator,1,1
+full,6,6
+gold,4,3
+gold star,1,1
+inform,9,3
+legacy adapter,1,1
+one,7,2
+pearl,1,1
+pro,15,4
+rb1,1,1
+rb2,1,1
+rb3,1,1
+rb4,1,1
+rock band,1,1
+rock band 1,1,1
+rock band 2,1,1
+rock band 3,1,1
+rock band 4,1,1
+star,8,5
+td4,1,1
+athlete,1,1
+athletic,1,1
+every damn day,1,1
+fitness,4,1
+functional,1,1
+hick hop,1,1
+infinite,1,1
+logical,1,1
+moccasin creek,1,1
+nutrition,4,2
+real men real style,1,1
+shaw,1,1
+teaching fashion,1,1
+tiger fitness,1,1
+workout,2,1
+yoga,2,1
+cut,2,1
+dash mining,1,1
+digital cash,1,1
+genesis,1,1
+genesis mining,1,1
+genesis mining dash,1,1
+genesis mining review,1,1
+genesis mining roi,1,1
+genesis mining scam,0,1
+mining,2,1
+move,10,3
+nick,8,1
+x11,1,1
+funny,61,32
+heathenism,1,1
+heathenry,1,1
+iceland,1,1
+mythology,2,1
+new saga,1,1
+old ways,1,1
+paganism,1,1
+paganry,1,1
+saga,1,1
+v sa,1,1
+viking faith,1,1
+funny,61,32
+cash,3,1
+earn cash,1,1
+free cash,2,1
+free money,1,1
+free recharge,4,1
+hack,10,1
+hack trick,2,1
+money,8,2
+new trick,1,1
+old,7,3
+refer get,1,1
+unlimited,2,1
+unlimited cash,1,1
+wallet,2,1
+adventure,7,5
+animal,4,1
+animal adventure,1,1
+giraffe,1,1
+giraffe cam,1,1
+new york,2,1
+park,3,1
+zoo,2,1
+7,3,2
+big family,2,2
+bus life,2,2
+bus life 9,2,2
+bus life nine,2,2
+family 9 bus,2,2
+family show,2,2
+full time,2,2
+go,10,3
+good news bus,2,2
+life,16,8
+reality,3,2
+red white bus,2,2
+school,13,4
+show,4,2
+baby finger,3,3
+baby finger family song,3,3
+baby song,5,5
+finger family,8,6
+finger family mouse,3,3
+mouse,9,5
+mouse clubhouse,3,3
+nursery,10,5
+funny,61,32
+real estate,10,10
+residential,8,8
+sale,10,8
+virtual tour,8,8
+movie streaming,1,1
+diet,11,2
+diet consultant,2,2
+diet daily,2,2
+diet dual dynamics,2,2
+diet honest review,2,2
+diet plan,2,2
+diet review,2,2
+diet success,2,2
+diet week 1,2,2
+diet week one,2,2
+diet weight loss,2,2
+lose weight,2,2
+colors,42,25
+learn colors,8,9
+fake news,5,1
+jimmy,8,2
+jimmy show,2,2
+news,148,59
+politics,18,4
+progressive talk show,2,2
+tyt,2,2
+young,3,2
+spinner,3,2
+review,24,14
+scam,1,1
+breaking news,6,3
+news,148,59
+television,12,5
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+independence,1,1
+real estate,10,10
+realty,2,1
+residential,8,8
+sale,10,8
+virtual tour,8,8
+congress,4,1
+news,148,59
+top,11,5
+death,5,2
+daily,11,2
+funny,61,32
+cartoon,38,16
+needs go,2,2
+needs go full,2,2
+animation,11,7
+bean,13,7
+bean funny,7,7
+ben,8,6
+cartoon,38,16
+cartoon network,6,6
+comedy,64,23
+entertainment television,6,6
+funny,61,32
+grey matter,6,6
+preview,39,44
+sab,6,6
+serial,64,44
+set,9,8
+star plus,26,22
+sunny hot,6,6
+sunny hot scene,6,6
+dark 3,4,2
+dark 3 2016,2,2
+dark 3 guide,2,2
+dark 3 ringed city,8,2
+dark 3 ringed city boss,2,2
+dark 3 ringed city ending,2,2
+dark 3 ringed city part 1,2,2
+news,148,59
+tiger childhood,1,1
+tiger shroff,3,3
+tiger shroff interview,1,1
+tiger shroff share childhood,2,1
+tiger shroff share childhood media,1,1
+2017,85,66
+best,24,7
+entertainment,10,7
+extreme,2,2
+ge locomotive,2,2
+general electric,2,1
+locomotive,1,2
+railway,4,2
+animation series,1,1
+cartoon,38,16
+cartoon movie,1,1
+cartoon show,1,1
+cartoon video,1,1
+channel,7,4
+comedy,64,23
+episode,46,42
+funny,61,32
+interesting,6,2
+latest comedy,1,1
+new,47,18
+part,1,1
+serial,64,44
+ultra,1,1
+ultra b,3,1
+ultra b cartoon,2,1
+ultra b new,1,1
+car,4,1
+collection,2,1
+collector,2,1
+cooking,6,3
+easter egg,2,1
+fireman surprise,1,1
+horse carriage,1,1
+magic box,1,1
+pig,8,6
+princess castle,1,1
+princess toy,1,1
+shopping spree cash,1,1
+toy,12,7
+toy collection ever giant,1,1
+toy collector,1,1
+toy story,3,3
+toy story full movie,1,1
+music,21,5
+official,7,3
+video,34,9
+9ja,3,2
+9ja news,3,2
+breaking news,6,3
+news,148,59
+television,12,5
+top,11,5
+news,148,59
+trump,42,24
+bedroom,2,2
+home,9,3
+house,7,3
+long term,2,2
+real estate,10,10
+rent,2,2
+news,148,59
+trump,42,24
+fa radio,6,2
+hot news,6,2
+news,148,59
+news today,9,1
+party,22,1
+radio free,6,2
+radio news,6,2
+radio news 2017,6,2
+san,6,2
+sound,10,6
+e sports,3,3
+gen,3,3
+montage,9,5
+overwatch,14,3
+soldier,3,3
+baby finger,3,3
+baby finger family song,3,3
+baby song,5,5
+finger family,8,6
+finger family mouse,3,3
+mouse,9,5
+mouse clubhouse,3,3
+nursery,10,5
+animation,11,7
+basic,2,1
+beginner tutorial,0,1
+course,1,1
+easy,4,2
+effects,3,1
+effects template,1,1
+effects training,1,1
+effects tutorial,0,1
+learn effects,1,1
+simple,4,1
+template,1,1
+training,1,1
+tutorial,23,12
+video,34,9
+video adobe premiere pro,1,1
+video tutorial,3,2
+sesame,2,2
+street,2,2
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+kiss,8,8
+last episode,15,11
+latest,45,43
+latest episode,12,10
+love,39,21
+marriage,7,7
+may 4 day year,12,13
+news,148,59
+romance,7,6
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+wedding,9,8
+zee,15,9
+zee serial,5,5
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+news,148,59
+preview,39,44
+serial,64,44
+star plus,26,22
+today,41,40
+today episode,32,26
+upcoming,13,11
+4,22,14
+interactive entertainment,20,12
+ps4share,6,4
+21,2,2
+46,3,3
+girl,16,10
+nhk100,2,2
+hide,8,2
+tutorial,23,12
+2,4,1
+2ne1,1,1
+actor,1,1
+actress,4,1
+comedy,64,23
+dream,3,1
+dunk,2,2
+entertainment,10,7
+fat,20,14
+gong,1,1
+han,1,1
+hong,2,1
+idol,3,3
+kang,1,1
+kim sook,1,1
+music bank,1,1
+sister,2,1
+slam,1,1
+slamdunk2,1,1
+subtitle,4,1
+variety,2,1
+trump,42,24
+baby,14,9
+baby learn,2,1
+baby learn colors,1,1
+colors,42,25
+comedy,64,23
+fun,5,2
+fun baby learn colors,1,1
+fun learn,1,1
+learn,22,16
+learn colors,8,9
+learning,15,8
+play,15,11
+play fun,1,1
+play learn,1,1
+play learn colors,1,1
+sago,2,2
+4,22,14
+evil within,1,1
+interactive entertainment,20,12
+ps4live,14,6
+wild,1,1
+0132,2,2
+022,2,2
+023,2,2
+024,2,2
+2017,85,66
+game,23,14
+mechanic,2,2
+neat,2,2
+play,15,11
+review,24,14
+scrap,2,2
+scrap mechanic,4,2
+stream,9,3
+tutorial,23,12
+update,3,4
+5th may 2017,21,4
+full episode,77,48
+kilo,2,2
+kilo 5th may 2017,2,2
+kilo 5th may2017 full episode,2,2
+kilo 5th may2017 full episode watch,2,2
+kilo full,2,2
+kilo full episode 5th may 2017,2,2
+kilo latest episode,2,2
+latest,45,43
+news,148,59
+serial,64,44
+today,41,40
+tutorial,23,12
+application,3,3
+entertainment,10,7
+free mobile,4,4
+free streaming,4,4
+funny,61,32
+go 90,4,4
+go 90 video,4,4
+go90,5,4
+go90 original series,3,3
+mobile,10,4
+mobile video streaming,4,4
+social,4,4
+streaming,7,5
+basketball,4,1
+dunk,2,2
+entertainment,10,7
+free mobile,4,4
+free streaming,4,4
+go 90,4,4
+go 90 video,4,4
+go90,5,4
+guy,1,1
+jeff,1,1
+mobile,10,4
+mobile video streaming,4,4
+social,4,4
+streaming,7,5
+tucker,1,1
+2nd may 2017,19,10
+episode,46,42
+full episode,77,48
+full episode 2nd may 2017,4,4
+kiss,8,8
+last episode,15,11
+latest,45,43
+location,22,21
+love,39,21
+marriage,7,7
+news,148,59
+romance,7,6
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+wedding,9,8
+zee,15,9
+zee serial,5,5
+gymnastics,5,1
+baby finger,3,3
+baby finger family song,3,3
+baby song,5,5
+finger family,8,6
+finger family mouse,3,3
+mouse,9,5
+mouse clubhouse,3,3
+nursery,10,5
+4,22,14
+arrival,1,1
+astronomy,9,3
+climate chaos,2,2
+news,148,59
+orbit,1,2
+place,12,7
+planet x,4,2
+planet x 2016,3,2
+planet x 2017,2,2
+planet x arrival,1,1
+planet x news,3,2
+planet x orbit,1,1
+planet x update,1,2
+solar system,1,1
+update,3,4
+wormwood,1,1
+movie,15,7
+2017,85,66
+4th may 2017,26,25
+cast,3,3
+episode,46,42
+full episode,77,48
+last episode,15,11
+latest,45,43
+latest episode,12,10
+new,47,18
+news,148,59
+preview,39,44
+serial,64,44
+star plus,26,22
+tell,23,13
+today,41,40
+upcoming,13,11
+2017,85,66
+adobe stock,2,2
+architect,2,2
+architecture,2,2
+builder,2,2
+building,3,2
+buy video,2,2
+compare,1,1
+construction,3,2
+contractor,2,2
+corporate,2,2
+development,2,2
+electricity,1,1
+engineer,2,2
+equipment,2,2
+expert,2,2
+footage,12,11
+horizontal,2,2
+industrial,2,2
+industry,1,2
+job,3,2
+manager,2,2
+occupation,2,2
+outdoors,3,3
+partnership,2,2
+people,3,2
+place,12,7
+plan,3,3
+pond5,2,2
+profession,2,2
+professional,3,2
+project,2,2
+protective,1,1
+showing,2,2
+stock,2,2
+stock video,2,2
+talking,3,3
+team,13,5
+teamwork,2,2
+transformer,1,1
+uniform,1,1
+worker,2,2
+workplace,2,2
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+kiss,8,8
+last episode,15,11
+latest,45,43
+latest episode,12,10
+love,39,21
+may 4 day year,12,13
+news,148,59
+romance,7,6
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+zee,15,9
+comic,1,1
+doctor,3,1
+dragon ball,1,1
+geek,1,1
+grace,1,1
+hulk,8,2
+joker,1,1
+mark,5,2
+marvel,3,2
+new 52,1,1
+one punch man,1,1
+super hero,2,1
+superhero,4,2
+superman,1,1
+venom,1,1
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+montage,9,5
+adoption,1,1
+baby,14,9
+bicornuate uterus,1,1
+choice motherhood,2,1
+daily,11,2
+donor,1,1
+embryo adoption,1,1
+family,25,4
+infant,1,1
+infertility,1,1
+international adoption,1,1
+mother,2,1
+motherhood daily,1,1
+private adoption,1,1
+single mother choice,1,1
+snowflake adoption,1,1
+sperm donor,1,1
+syndrome,2,1
+syndrome adoption,2,1
+trying conceive,1,1
+2017,85,66
+4th may 2017,26,25
+dev,2,2
+fat,20,14
+full episode,77,48
+latest,45,43
+may 4 day year,12,13
+new show,4,3
+rang,4,2
+rang full episode,2,2
+title song,2,2
+today episode,32,26
+2017,85,66
+2nd may 2017,19,10
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+new,47,18
+preview,39,44
+serial,64,44
+today,41,40
+today episode,32,26
+funny,61,32
+peter,1,1
+bonus candy,1,1
+bonus illusion,1,1
+bonus monody,1,1
+deep space,1,1
+ghost dance,1,1
+kung fu,1,1
+level,3,2
+level 10,1,1
+level 4,0,1
+rolling sky,2,1
+skin collection,1,1
+speed,2,1
+speed 150,1,1
+speed 80,1,1
+2017,85,66
+ford,3,1
+animation,11,7
+bean,13,7
+bean funny,7,7
+ben,8,6
+cartoon,38,16
+cartoon network,6,6
+comedy,64,23
+entertainment television,6,6
+funny,61,32
+grey matter,6,6
+preview,39,44
+sab,6,6
+serial,64,44
+set,9,8
+star plus,26,22
+sunny hot,6,6
+sunny hot scene,6,6
+bluedrake42,2,2
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+kiss,8,8
+latest,45,43
+latest episode,12,10
+location,22,21
+love,39,21
+marriage,7,7
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+wedding,9,8
+zee,15,9
+2017,85,66
+big data,2,1
+center,2,1
+cloud,1,1
+computer,2,1
+computer technology,2,1
+data,1,1
+e7intel,1,1
+technology information,1,1
+technology solution,1,1
+real estate,10,10
+residential,8,8
+sale,10,8
+virtual tour,8,8
+battle,12,8
+blake,4,3
+team,13,5
+team blake,2,2
+voice,17,3
+voice 2017,3,3
+voice new season,3,3
+voice season 12,5,3
+news,148,59
+special,6,2
+trump,42,24
+fox business,4,1
+original composition,4,4
+alien,3,1
+empire,1,1
+fallen angel,1,1
+fossil,1,1
+japan,3,2
+sea anomaly,1,1
+ugly,3,1
+360,3,1
+360 live,1,1
+360 video,2,1
+astronomy,9,3
+earth,2,1
+exploration,1,1
+exploration space,1,1
+footage,12,11
+live,16,7
+moon,0,1
+place,12,7
+science,12,6
+science documentary,3,2
+science fair,2,2
+space,3,2
+voyager 1,1,2
+news,148,59
+cartoon,38,16
+needs go,2,2
+needs go full,2,2
+conference,6,3
+global academic research institute,3,3
+international scientific research conference organizer,3,3
+mice tourism,3,3
+scientific research conference,3,3
+sri mice,3,3
+2017,85,66
+movie,15,7
+trailer,17,11
+funny,61,32
+tiger shroff,3,3
+tiger shroff dance,2,2
+news,148,59
+north,6,3
+trump,42,24
+trump,42,24
+forest rain sound,4,4
+gentle rain,4,4
+rain roof,4,4
+rain shower,8,4
+rain shower sound,4,4
+rain sound,16,4
+rainy,11,4
+sound,10,6
+thunderstorm,12,4
+beauty,6,2
+best face shape,1,1
+best glasses,1,1
+best men,1,1
+cheap,1,1
+control 80,1,1
+decide,1,1
+fashion grinding,1,1
+funny,61,32
+glasses,2,1
+glasses worth,1,1
+lens,1,1
+look,4,2
+look smart glasses,1,1
+make,9,3
+men,2,1
+miss universe 2017,1,1
+pick best glasses face shape,1,1
+prescription,1,1
+remove scratches glasses,1,1
+2017,85,66
+4th may 2017,26,25
+drama,8,2
+episode,46,42
+fat,20,14
+full episode,77,48
+latest,45,43
+may 4 day year,12,13
+new,47,18
+news,148,59
+preview,39,44
+sa,2,1
+sa full episode,1,1
+sa last episode,1,1
+sa serial,1,1
+sa today episode,1,1
+sa zee,1,1
+serial,64,44
+today,41,40
+upcoming,13,11
+wo sa,1,1
+zee sa,1,1
+real estate,10,10
+residential,8,8
+sale,10,8
+virtual tour,8,8
+21,2,2
+46,3,3
+girl,16,10
+nhk100,2,2
+black mob violence,6,6
+black white crime,6,6
+colin,7,6
+dont make black angry,6,6
+white girl bleed lot,6,6
+2017,85,66
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+latest news,11,4
+location,22,21
+news,148,59
+preview,39,44
+romantic,24,18
+se,3,3
+se 4th may 2017,2,3
+se colors,4,3
+se today episode,2,2
+today,41,40
+video,34,9
+baby,14,9
+cream,1,1
+dance,9,4
+ice,1,1
+learning,15,8
+2017,85,66
+new serial,5,4
+spicer,6,2
+trump,42,24
+sex,4,2
+action game,2,2
+android game,3,2
+child game,2,2
+computer game,2,2
+game,23,14
+girl game,2,2
+latest game,2,2
+mobile game,2,2
+racing best game,2,2
+sky game,2,2
+sport game,2,2
+top game,2,2
+trump,42,24
+2017,85,66
+brown dwarf star,1,1
+channel,7,4
+climate chaos,2,2
+evidence,0,1
+news,148,59
+orbit,1,2
+planet,1,2
+planet x,4,2
+planet x 2016,3,2
+planet x 2017,2,2
+planet x apocalypse,0,1
+planet x news,3,2
+planet x update,1,2
+update,3,4
+wwwnibiruplanetx2016com,0,1
+night,1,1
+top 10,3,3
+original composition,4,4
+2017,85,66
+2nd may 2017,19,10
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+new,47,18
+preview,39,44
+serial,64,44
+today,41,40
+today episode,32,26
+mein,0,1
+mein 5 may 2017,0,1
+song,28,2
+veer,0,1
+challenge,12,2
+brown,6,1
+cartoon,38,16
+comedy,64,23
+dog,2,1
+family guy,1,1
+fox,4,1
+griffin,5,1
+interesting,6,2
+joe,6,2
+mike henry,1,1
+mila,1,1
+parody,2,1
+peter griffin,1,1
+quagmire,1,1
+quahog,1,1
+seth,2,3
+seth green,1,1
+instrumental,5,4
+ambassador,2,2
+crime,6,2
+diplomat,2,2
+diplomate,1,2
+environment,3,2
+esclavage,1,2
+movement,2,2
+national,11,2
+national anthem,2,2
+parliament,2,2
+patriot,2,2
+patriotic,2,2
+politics,18,4
+premier minister,1,2
+president,6,2
+prime minister,2,2
+senator,2,2
+slavery,2,2
+traffic,3,2
+un,3,2
+united,6,2
+news,148,59
+tutorial,23,12
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+kiss,8,8
+latest,45,43
+latest episode,12,10
+location,22,21
+love,39,21
+marriage,7,7
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+wedding,9,8
+zee,15,9
+news,148,59
+1980s,1,1
+1990s,1,1
+documentary,6,1
+gaming,11,3
+great big story,1,1
+move,10,3
+colors,42,25
+learn,22,16
+learn colors,8,9
+learning,15,8
+nursery,10,5
+paw patrol,8,7
+toy,12,7
+2017,85,66
+4th may 2017,26,25
+arjun,4,3
+episode,46,42
+fat,20,14
+full episode,77,48
+latest,45,43
+location,22,21
+look,4,2
+may,8,4
+maya,3,3
+new,47,18
+news,148,59
+place,12,7
+republic,7,2
+romantic,24,18
+scene,5,3
+serial,64,44
+today,41,40
+today episode,32,26
+twist,4,3
+upcoming,13,11
+4,22,14
+funny,61,32
+overwatch edition,2,2
+attack,2,1
+attack character image song,1,1
+ending anime,1,1
+epic anime,1,1
+matter,1,1
+opening anime,1,1
+original,1,1
+colors,42,25
+learn,22,16
+learn colors,8,9
+learning,15,8
+learning colors,4,2
+surprise,10,5
+science,12,6
+2017,85,66
+5th may 2017,21,4
+episode,46,42
+full episode,77,48
+latest,45,43
+animation,11,7
+bean,13,7
+bean funny,7,7
+ben,8,6
+cartoon,38,16
+cartoon network,6,6
+comedy,64,23
+entertainment television,6,6
+funny,61,32
+grey matter,6,6
+preview,39,44
+sab,6,6
+serial,64,44
+set,9,8
+star plus,26,22
+sunny hot,6,6
+sunny hot scene,6,6
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+gayatri,3,3
+joshi,3,3
+khan,4,3
+latest,45,43
+news,148,59
+preview,39,44
+serial,64,44
+singh,6,4
+star plus,26,22
+today,41,40
+today episode,32,26
+upcoming,13,11
+video,34,9
+ye,3,3
+trump,42,24
+adventure,7,5
+baby,14,9
+bus,2,2
+cartoon,38,16
+chuck e cheese,2,2
+comedy,64,23
+daddy,3,2
+educational,6,2
+family,25,4
+family friendly,4,2
+family fun pack,2,2
+fisher price,2,2
+frozen,7,3
+game,23,14
+good,5,2
+happy,5,2
+learn,22,16
+little,4,2
+mask,2,2
+mouse,9,5
+paw patrol,8,7
+pig,8,6
+play,15,11
+playtime,3,2
+step2,2,2
+surprise,10,5
+toy,12,7
+toy story,3,3
+real estate,10,10
+residential,8,8
+sale,10,8
+virtual tour,8,8
+conference,6,3
+education distance learning,2,1
+global academic research institute,3,3
+international conference education distance learning,2,1
+international scientific research conference organizer,3,3
+mice tourism,3,3
+scientific research conference,3,3
+sri mice,3,3
+begum movie screening,2,2
+begum screening,2,2
+cast,3,3
+screening,2,2
+screening begum,3,2
+special screening,4,2
+4,22,14
+interactive entertainment,20,12
+ps4live,14,6
+80years,2,2
+anniversary,2,2
+mount abu,2,2
+peace mind,2,2
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+trump,42,24
+dragon tales,1,1
+colors,42,25
+full,6,6
+harman,4,4
+location,22,21
+preview,39,44
+shakti,16,5
+shakti 5th may 2017,2,1
+shakti 5th may 2017 full episode,2,1
+shakti cast,1,1
+shakti full episode,9,5
+shakti latest episode,1,1
+shakti latest news,1,1
+shakti location,2,2
+shakti preview,3,3
+shakti serial,5,4
+shakti today episode,1,1
+trump,42,24
+studio six,1,1
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+debate,8,5
+news,148,59
+trump,42,24
+adventure,7,5
+culture,2,1
+exploring,3,1
+food,8,1
+globe trekker,1,1
+go,10,3
+history,3,2
+holly morris,1,1
+lonely planet,1,1
+pacific,1,1
+south,1,1
+tourism,1,1
+travel guide,1,1
+tutorial,23,12
+wright,1,1
+media bullying,1,1
+news,148,59
+ram,1,1
+ram day,1,1
+ram tiger shroff,1,1
+ram tweet,1,1
+social media,2,1
+social media bullying,1,1
+tiger shroff ram,1,1
+tiger shroff reaction,1,1
+tiger shroff reaction ram,1,1
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+preview,39,44
+serial,64,44
+star plus,26,22
+today,41,40
+today episode,32,26
+last,3,2
+luke,3,2
+star,8,5
+trailer,17,11
+fall,1,1
+jimmy,8,2
+jimmy show,2,2
+news,148,59
+politics,18,4
+progressive talk show,2,2
+toby,1,1
+tyt,2,2
+watching,1,1
+young,3,2
+album,2,1
+dance music,1,1
+electronic,2,1
+female,2,1
+got,0,1
+pop,2,1
+producer,2,2
+vocalist,1,1
+astrologer,1,1
+astrology may 2017,1,1
+astrology video may 2017,1,1
+may 2017,5,1
+monthly 2017,1,1
+monthly may 2017,2,1
+trump,42,24
+news,148,59
+try laugh challenge,1,2
+black mob violence,6,6
+black white crime,6,6
+colin,7,6
+dont make black angry,6,6
+white girl bleed lot,6,6
+2017,85,66
+2nd may 2017,19,10
+bole,3,3
+bole 2nd may 2017,1,1
+bole 2nd may 2017 full episode,1,1
+bole full episode,2,3
+bole preview,1,2
+bole serial,2,3
+bole star plus,3,3
+bole today,2,3
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+may 2 day year,4,4
+new,47,18
+preview,39,44
+serial,64,44
+star plus,26,22
+tell,23,13
+today,41,40
+behind voice,1,1
+blake,4,3
+coach exclusive,1,1
+digital exclusive,1,1
+exclusive content,1,1
+team,13,5
+voice,17,3
+voice 2017,3,3
+voice new season,3,3
+voice season 12,5,3
+guava juice,4,1
+bluedrake42,2,2
+art,4,1
+art challenge,1,1
+artist,2,1
+cartoon,38,16
+challenge,12,2
+color,6,6
+coloring,2,2
+colour,1,1
+cute,17,8
+draw,2,2
+drawing,4,2
+drawing challenge,1,1
+easy,4,2
+fan art,1,1
+inform,9,3
+learn,22,16
+lesson,1,1
+minion,2,1
+plan,3,3
+school,13,4
+sketch,3,1
+sophia,2,1
+speed drawing,1,1
+step step,1,1
+talented,1,1
+teens,1,1
+tutorial,23,12
+adobe stock,2,2
+architect,2,2
+architecture,2,2
+builder,2,2
+building,3,2
+business,5,1
+buy video,2,2
+construction,3,2
+contractor,2,2
+corporate,2,2
+development,2,2
+energy,1,1
+engineer,2,2
+equipment,2,2
+expert,2,2
+footage,12,11
+horizontal,2,2
+industrial,2,2
+industry,1,2
+job,3,2
+manager,2,2
+occupation,2,2
+outdoors,3,3
+panel,2,1
+partnership,2,2
+people,3,2
+place,12,7
+plan,3,3
+pond5,2,2
+profession,2,2
+professional,3,2
+project,2,2
+renewable,1,1
+showing,2,2
+solar,1,1
+stock,2,2
+stock video,2,2
+talking,3,3
+team,13,5
+teamwork,2,2
+work,3,2
+worker,2,2
+working,2,1
+workplace,2,2
+day,8,1
+easter,5,2
+toy,12,7
+2nd may 2017,19,10
+episode,46,42
+full episode,77,48
+kiss,8,8
+last episode,15,11
+latest,45,43
+latest episode,12,10
+love,39,21
+marriage,7,7
+news,148,59
+romance,7,6
+romantic,24,18
+serial,64,44
+today episode,32,26
+watch,8,2
+wedding,9,8
+zee,15,9
+zee serial,5,5
+4,22,14
+buzzie1210,1,1
+interactive entertainment,20,12
+overwatch edition,2,2
+ps4share,6,4
+dress,1,1
+fashion,8,3
+review,24,14
+try,3,1
+2nd may 2017,19,10
+colors,42,25
+episode,46,42
+full,6,6
+harman,4,4
+may 2 day year,4,4
+preview,39,44
+shakti,16,5
+shakti 2nd may 2017,1,1
+shakti 2nd may 2017 full episode,1,1
+shakti colors,6,3
+shakti full episode,9,5
+shakti full episode 2nd may 2017,1,1
+shakti latest,1,1
+shakti preview,3,3
+shakti today,1,1
+collapse,2,1
+credit,2,1
+crunch,2,1
+currency,2,1
+dollar,2,1
+financial,2,1
+gold,4,3
+kit,2,1
+lord,4,1
+reserve,2,1
+self,4,1
+silver,2,1
+storage,2,1
+sufficiency,2,1
+survival,4,1
+survivalism,2,1
+survivalist,2,1
+wasteland,2,1
+wilderness,2,1
+2017,85,66
+movie,15,7
+trailer,17,11
+adobe,1,1
+advice,3,1
+beautiful,16,10
+canon,1,1
+color,6,6
+describe,2,1
+digital,1,1
+lightroom,1,1
+live,16,7
+photo,2,1
+photography,1,1
+place,12,7
+stream,9,3
+tony,1,1
+tutorial,23,12
+persona 5,3,1
+persona 5 opening,1,1
+persona 5 play,1,1
+persona5,4,1
+persona5 ending,1,1
+persona5 opening,1,1
+2017,85,66
+beth,1,1
+dudley,1,1
+real estate,10,10
+residential,8,8
+sale,10,8
+southland realty,1,1
+virtual tour,8,8
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+kiss,8,8
+latest,45,43
+latest episode,12,10
+location,22,21
+love,39,21
+marriage,7,7
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+wedding,9,8
+zee,15,9
+2017,85,66
+2nd may 2017,19,10
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+new,47,18
+preview,39,44
+serial,64,44
+today,41,40
+today episode,32,26
+couple,5,2
+dark,4,1
+funny,61,32
+android,4,3
+game,23,14
+gaming,11,3
+innocent,4,1
+innocent android,2,1
+innocent game,2,1
+news,148,59
+twitch,9,5
+best lee sin,1,1
+best lee sin 2017,1,1
+league,9,2
+lee sin,6,1
+lee sin 1v5,1,1
+lee sin 2017,1,1
+lee sin jungle,1,1
+lee sin main,1,1
+lee sin master,1,1
+lee sin montage,2,1
+lee sin montage 2017,2,1
+lee sin montage s7,1,1
+lee sin montage season 7,1,1
+master,1,1
+montage,9,5
+sick lee lee sin montage,1,1
+top lee sin,1,1
+10,2,2
+big show,1,2
+funny,61,32
+life,16,8
+love,39,21
+mike,2,2
+randy,1,2
+raw,2,2
+reaction,6,2
+reaction video,1,2
+seth,2,3
+tattoo,3,2
+tell,23,13
+top,11,5
+top 10,3,3
+top 10 raw,1,2
+top 10 raw reaction,1,2
+top 25 seth reaction,2,2
+undertaker savage,1,2
+world wrestling entertainment,3,2
+wrestling,4,2
+2017,85,66
+action,2,1
+film,8,3
+movie,15,7
+trailer,17,11
+bill,8,5
+debate,8,5
+election 2016,7,4
+news,148,59
+news channel,8,4
+next news network,5,3
+presidential election,7,4
+em,1,1
+joy,1,1
+music,21,5
+music video,3,1
+red velvet,1,1
+17,4,2
+beautiful,16,10
+best,24,7
+custom,3,2
+ea sports,2,2
+fan,2,2
+follow,2,2
+football,6,2
+footy,3,2
+funny,61,32
+fut,2,2
+goal,5,2
+idol,3,3
+laugh,4,2
+life,16,8
+like4lhappy,2,2
+live,16,7
+love,39,21
+perfect,3,2
+play,15,11
+player,4,3
+pro,15,4
+rage,3,3
+soccer,4,2
+sport,3,2
+toty,2,2
+twitch,9,5
+ultimate team,2,2
+xbox360,3,2
+xboxlive4l,3,2
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+2017,85,66
+best,24,7
+entertainment,10,7
+extreme,2,2
+ge locomotive,2,2
+locomotive,1,2
+railway,4,2
+church,2,1
+death,5,2
+early,2,1
+eternity,2,1
+life,16,8
+lose salvation,2,1
+millennium,2,1
+old testament,2,1
+passion truth,2,1
+prison,3,1
+prophetic calendar,0,1
+salvation works,2,1
+tithing,2,1
+torah,6,1
+truth tradition,2,1
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+latest episode,12,10
+location,22,21
+new,47,18
+news,148,59
+om,2,2
+preview,39,44
+republic,7,2
+serial,64,44
+star plus,26,22
+today,41,40
+2016,11,9
+election,3,1
+news,148,59
+trump,42,24
+begum movie screening,2,2
+begum screening,2,2
+cast,3,3
+chunky begum screening,1,1
+chunky begum special screening,2,1
+screening,2,2
+screening begum,3,2
+screening chunky,1,1
+special screening,4,2
+finger family,8,6
+best,24,7
+pro,15,4
+trailer,17,11
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+hip hop,0,1
+instrumental,5,4
+rap,3,2
+book,1,1
+colored,1,1
+coloring,2,2
+coloring book,1,1
+colors,42,25
+draw,2,2
+drawing,4,2
+drawing pencil,0,1
+finger family song,3,1
+house,7,3
+learn,22,16
+learn colors,8,9
+learning,15,8
+nursery,10,5
+rainbow,1,1
+simple example,1,1
+umbrella,0,1
+review,24,14
+science,12,6
+2k17,9,8
+4,22,14
+interactive entertainment,20,12
+ps4live,14,6
+ice cream,1,1
+news,148,59
+2nd may 2017,19,10
+episode,46,42
+full episode,77,48
+full episode 2nd may 2017,4,4
+kiss,8,8
+last episode,15,11
+latest,45,43
+location,22,21
+love,39,21
+marriage,7,7
+news,148,59
+romance,7,6
+romantic,24,18
+serial,64,44
+today,41,40
+today episode,32,26
+wedding,9,8
+zee,15,9
+zee serial,5,5
+2017,85,66
+mark,5,2
+star,8,5
+star celebration,4,1
+2nd may 2017,19,10
+2nd may 2017 full episode,2,2
+episode,46,42
+full episode,77,48
+full episode 2nd may 2017,4,4
+latest,45,43
+location,22,21
+may 2 day year,4,4
+shoot,7,2
+star plus,26,22
+vidya,1,1
+news,148,59
+beast,1,1
+born,1,1
+campaign,1,1
+commentary,1,1
+completion,1,1
+control,1,1
+discard,1,1
+druid,1,1
+elemental,1,1
+experience,1,1
+fatigue,1,1
+game,23,14
+gaming,11,3
+golem,1,1
+hearthstone,2,2
+inform,9,3
+jade,1,1
+mage,1,1
+miracle,1,1
+move,10,3
+paladin,1,1
+perfection,1,1
+pirate,1,1
+play,15,11
+priest,1,1
+purify,1,1
+quest,1,1
+ramp,1,1
+review,24,14
+rogue,1,1
+shaman,1,1
+story,4,1
+tempo,2,2
+video,34,9
+warlock,1,1
+warrior,1,1
+essay,1,1
+9999999,1,1
+frisk,1,1
+hot,4,1
+papyrus,1,1
+sans,1,1
+sexy,2,1
+shorts,2,1
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+live,16,7
+live 2017,1,1
+live show,1,1
+astronomy,9,3
+footage,12,11
+international space station,2,1
+international space station documentary,0,1
+international space station live,0,1
+international space station seen earth,0,1
+international space station tour,0,1
+live,16,7
+place,12,7
+science,12,6
+science documentary,3,2
+science fair,2,2
+space,3,2
+voyager 1,1,2
+science,12,6
+application,3,3
+entertainment,10,7
+free,12,3
+free mobile,4,4
+free streaming,4,4
+go 90,4,4
+go 90 video,4,4
+go90,5,4
+go90 original series,3,3
+mobile,10,4
+mobile video streaming,4,4
+social,4,4
+streaming,7,5
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+latest,45,43
+location,22,21
+may 4 day year,12,13
+news,148,59
+preview,39,44
+romantic,24,18
+serial,64,44
+star plus,26,22
+today,41,40
+forest rain sound,4,4
+gentle rain,4,4
+rain roof,4,4
+rain shower,8,4
+rain shower sound,4,4
+rain sound,16,4
+rainy,11,4
+sound,10,6
+thunderstorm,12,4
+2017,85,66
+2nd may 2017,19,10
+2nd may 2017 full episode,2,2
+arjun,4,3
+episode,46,42
+episode 146,1,1
+full episode,77,48
+full episode 2nd may 2017,4,4
+last episode,15,11
+latest,45,43
+may,8,4
+may 2 day year,4,4
+maya,3,3
+new,47,18
+new serial,5,4
+romance,7,6
+serial,64,44
+set,9,8
+today,41,40
+today episode,32,26
+7,3,2
+big family,2,2
+bus life,2,2
+bus life 9,2,2
+bus life nine,2,2
+family 9 bus,2,2
+family show,2,2
+full time,2,2
+go,10,3
+good news bus,2,2
+life,16,8
+reality,3,2
+red white bus,2,2
+school,13,4
+show,4,2
+animated cartoon,1,1
+animated series,1,1
+cartoon,38,16
+cartoon animation,1,1
+cartoon baby,1,1
+cartoon series,1,1
+compilation,9,4
+episode,46,42
+new,47,18
+new cartoon full,1,1
+season,2,1
+sheep,5,1
+sheep cartoon,1,1
+sheep house,1,1
+46,3,3
+j,1,1
+music,21,5
+piano,4,1
+4,22,14
+interactive entertainment,20,12
+ps4live,14,6
+trump,42,24
+audio,3,1
+best,24,7
+best bill burr,1,1
+bill,8,5
+bill burr,2,1
+burr,1,1
+clips,8,8
+comedy,64,23
+funny,61,32
+joe,6,2
+joe rogan,1,1
+morning,3,1
+portal,1,1
+rogan,1,1
+special,6,2
+colors,42,25
+full episode,77,48
+simar,1,1
+simar ka,3,2
+simar ka full episode,1,2
+today,41,40
+art major,1,1
+computer science major,1,1
+cooper,1,1
+design,1,1
+design major,1,1
+design school,1,1
+design technology major,1,1
+fashion design major,1,1
+fashion major,1,1
+new school,1,1
+new york city,1,1
+school design,1,1
+strategic design major,1,1
+android,4,3
+game,23,14
+17,4,2
+beautiful,16,10
+best,24,7
+custom,3,2
+ea sports,2,2
+fan,2,2
+follow,2,2
+football,6,2
+footy,3,2
+funny,61,32
+fut,2,2
+goal,5,2
+idol,3,3
+laugh,4,2
+life,16,8
+like4lhappy,2,2
+live,16,7
+love,39,21
+perfect,3,2
+play,15,11
+player,4,3
+pro,15,4
+rage,3,3
+soccer,4,2
+sport,3,2
+toty,2,2
+twitch,9,5
+ultimate team,2,2
+xbox360,3,2
+xboxlive4l,3,2
+spinner,3,2
+trump,42,24
+black mob violence,6,6
+black white crime,6,6
+colin,7,6
+dont make black angry,6,6
+white girl bleed lot,6,6
+original composition,4,4
+animation,11,7
+bean,13,7
+bean funny,7,7
+ben,8,6
+cartoon,38,16
+cartoon network,6,6
+comedy,64,23
+entertainment television,6,6
+funny,61,32
+grey matter,6,6
+preview,39,44
+sab,6,6
+serial,64,44
+set,9,8
+star plus,26,22
+sunny hot,6,6
+sunny hot scene,6,6
+2017,85,66
+arjun,4,3
+episode,46,42
+full episode,77,48
+last episode,15,11
+latest,45,43
+may,8,4
+maya,3,3
+new,47,18
+new serial,5,4
+serial,64,44
+set,9,8
+today,41,40
+today episode,32,26
+video,34,9
+color,6,6
+colors,42,25
+learn,22,16
+learn colors,8,9
+learning,15,8
+learning colors,4,2
+tutorial,23,12
+tutorial,23,12
+big,7,3
+game,23,14
+black mob violence,6,6
+black white crime,6,6
+colin,7,6
+dont make black angry,6,6
+white girl bleed lot,6,6
+original composition,4,4
+action game,2,2
+android game,3,2
+child game,2,2
+computer game,2,2
+game,23,14
+girl game,2,2
+latest game,2,2
+mobile game,2,2
+racing best game,2,2
+sky game,2,2
+sport game,2,2
+top game,2,2
+animation,11,7
+bean,13,7
+bean funny,7,7
+ben,8,6
+cartoon,38,16
+cartoon network,6,6
+comedy,64,23
+entertainment television,6,6
+funny,61,32
+grey matter,6,6
+preview,39,44
+sab,6,6
+serial,64,44
+set,9,8
+star plus,26,22
+sunny hot,6,6
+sunny hot scene,6,6
+bill,8,5
+debate,8,5
+election 2016,7,4
+fox news,10,3
+mike pence,9,3
+news,148,59
+news channel,8,4
+next news network,5,3
+presidential election,7,4
+trump,42,24
+baby doll,3,2
+baby song,5,5
+baby toy,2,2
+bad baby,2,2
+bad baby cry,2,2
+bad baby video,2,2
+bad bad chase,2,2
+best learn colors,2,2
+channel,7,4
+doll,6,2
+friendly,2,2
+fun video,2,2
+funny,61,32
+learn,22,16
+learn colors,8,9
+nickelodeon,2,2
+paw patrol,8,7
+paw patrol baby,2,2
+paw patrol toy,2,2
+preschool,2,2
+preschool toy,2,2
+surprise,10,5
+toddler,2,2
+toy,12,7
+toy surprise,2,2
+dance,9,4
+disruptor,1,1
+conference,6,3
+global academic research institute,3,3
+international scientific research conference organizer,3,3
+mice tourism,3,3
+scientific research conference,3,3
+sri mice,3,3
+funny,61,32
+mind,2,1
+test,7,1
+2017 open world,1,1
+ending,1,1
+full game,1,1
+ghost recon,3,1
+ghost recon commentary,1,1
+ghost recon ending,1,1
+ghost recon full game,1,1
+ghost recon part 1,2,1
+one,7,2
+open world,1,1
+part 1,1,1
+ps4,7,1
+review,24,14
+comedy,64,23
+accident prevention,1,1
+baby,14,9
+baby bus,1,1
+baby panda,1,1
+cartoon,38,16
+educational game,1,1
+fun educational,1,1
+learn,22,16
+learn safety,1,1
+learn safety knowledge,1,1
+learning,15,8
+safety,1,1
+safety baby,1,1
+tutorial,23,12
+bean,13,7
+bean cartoon,1,1
+bean compilation,1,1
+bean f,1,1
+bean full episode,1,1
+bean funny,7,7
+bean official,1,1
+comedy,64,23
+mister bean,1,1
+rowan,2,1
+trailer,17,11
+oh,3,3
+real estate,10,10
+residential,8,8
+sale,10,8
+virtual tour,8,8
+hurry,2,1
+2017,85,66
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+gayatri,3,3
+joshi,3,3
+khan,4,3
+latest,45,43
+news,148,59
+preview,39,44
+serial,64,44
+singh,6,4
+star plus,26,22
+today,41,40
+today episode,32,26
+upcoming,13,11
+video,34,9
+ye,3,3
+2017,85,66
+4th may 2017,26,25
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+latest news,11,4
+location,22,21
+love,39,21
+news,148,59
+preview,39,44
+romantic,24,18
+se,3,3
+se 4th may 2017,2,3
+se colors,4,3
+se today episode,2,2
+serial,64,44
+today,41,40
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+dark 3,4,2
+dark 3 2016,2,2
+dark 3 guide,2,2
+dark 3 ringed city,8,2
+dark 3 ringed city boss,2,2
+dark 3 ringed city ending,2,2
+dark 3 ringed city part 1,2,2
+new girl 6x20,1,1
+old,7,3
+80years,2,2
+anniversary,2,2
+mount abu,2,2
+peace mind,2,2
+2017,85,66
+4 may 2017,8,3
+colors,42,25
+full episode,77,48
+may 4 day year,12,13
+simar ka,3,2
+simar ka 4th may 2017,2,1
+simar ka 4th may 2017 full episode,1,1
+simar ka full episode,1,2
+simar ka full episode 4 may 2017,1,1
+simar ka full episode 4th may 2017,1,1
+simar ka latest episode,1,1
+simar ka location,1,1
+simar ka new episode,1,1
+simar ka today episode,1,1
+today,41,40
+spooky,1,1
+strange,4,1
+ukulele,4,1
+vainglory,1,1
+vainglory 8,1,1
+vainglory spring opener,1,1
+vainglory spring season,1,1
+0132,2,2
+022,2,2
+023,2,2
+024,2,2
+2017,85,66
+game,23,14
+mechanic,2,2
+neat,2,2
+play,15,11
+review,24,14
+scrap,2,2
+scrap mechanic,4,2
+stream,9,3
+tutorial,23,12
+update,3,4
+compilation,9,4
+musically,3,1
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+2017,85,66
+bass,2,1
+fast furious,4,1
+fast furious 8,2,1
+trap bass,1,1
+trap mix,1,1
+5,0,1
+5 trailer,0,1
+dead men tell tales,1,1
+film,8,3
+movie,15,7
+trailer,17,11
+color,6,6
+colors,42,25
+learn,22,16
+police,5,1
+licensee,1,1
+showcase,3,2
+trailer,17,11
+funny,61,32
+new,47,18
+best work,1,1
+bodybuilder,1,1
+build muscle,2,1
+building muscle,1,1
+gain muscle,2,1
+gaining muscle,1,1
+grit,1,1
+lean muscle,1,1
+machine,1,1
+machine grit,1,1
+marc,1,1
+muscle fitness,1,1
+muscle gain,1,1
+muscle growth,1,1
+muscle training,1,1
+muscle weight gain,1,1
+nutrition,4,2
+work,3,2
+spicer,6,2
+trump,42,24
+4,22,14
+interactive entertainment,20,12
+ps4share,6,4
+live,16,7
+9ja,3,2
+9ja news,3,2
+breaking news,6,3
+news,148,59
+television,12,5
+top,11,5
+baby doll,3,2
+baby song,5,5
+baby toy,2,2
+bad baby,2,2
+bad baby cry,2,2
+bad baby video,2,2
+bad bad chase,2,2
+best learn colors,2,2
+channel,7,4
+doll,6,2
+friendly,2,2
+fun video,2,2
+funny,61,32
+learn,22,16
+learn colors,8,9
+nickelodeon,2,2
+paw patrol,8,7
+paw patrol baby,2,2
+paw patrol toy,2,2
+preschool,2,2
+preschool toy,2,2
+surprise,10,5
+toddler,2,2
+topic,1,1
+toy,12,7
+toy surprise,2,2
+last,3,2
+star,8,5
+trailer,17,11
+4th may 2017,26,25
+dance,9,4
+episode,46,42
+fat,20,14
+full episode,77,48
+latest,45,43
+may 4 day year,12,13
+na se door,3,1
+na se door 4th may 2017,0,1
+na se door full episode,1,1
+na se door full episode 4th may 2017,0,1
+new show,4,3
+preview,39,44
+romantic,24,18
+scene,5,3
+singh,6,4
+star plus,26,22
+today,41,40
+3ds,3,1
+adventure,7,5
+beam mage,1,1
+colossal dee,1,1
+direct,1,1
+fire fragment,1,1
+free,12,3
+free play,1,1
+gem,1,1
+hammer lord,1,1
+heroic,1,1
+king,2,1
+planet,1,2
+switch,2,1
+sword,1,1
+sword hero,1,1
+team clash deluxe,1,1
+vigor,1,1
+water fragment,1,1
+diet,11,2
+diet consultant,2,2
+diet daily,2,2
+diet dual dynamics,2,2
+diet honest review,2,2
+diet plan,2,2
+diet review,2,2
+diet success,2,2
+diet week 1,2,2
+diet week one,2,2
+diet weight loss,2,2
+lose weight,2,2
+music,21,5
+giveaway,7,1
+4,22,14
+charity,3,1
+interactive entertainment,20,12
+marathon,1,1
+play,15,11
+ps4live,14,6
+special effect,1,1
+special effect charity,1,1
+special effects,1,1
+streaming,7,5
+twitch,9,5
+game,23,14
+2017,85,66
+4th may 2017,26,25
+5th may 2017,21,4
+colors,42,25
+episode,46,42
+full episode,77,48
+latest,45,43
+news,148,59
+serial,64,44
+today,41,40
+4,22,14
+interactive entertainment,20,12
+ps4live,14,6
+2017,85,66
+4 may 2017,8,3
+4th may 2017,26,25
+episode,46,42
+full episode,77,48
+full episode 4th may 2017,3,1
+last episode,15,11
+latest,45,43
+latest episode,12,10
+life,16,8
+may,8,4
+news,148,59
+preview,39,44
+serial,64,44
+today,41,40
+today episode,32,26
+twist,4,3
+upcoming,13,11
+big,7,3
+game,23,14
+news,148,59
+bedroom,2,2
+home,9,3
+house,7,3
+long term,2,2
+real estate,10,10
+rent,2,2
+japan,3,2
+news,148,59
+north,6,3
+nuclear,2,1
+2016,11,9
+2017,85,66
+2k16,7,7
+2k17,9,8
+5th,7,7
+band,15,7
+battle,12,8
+clips,8,8
+comparison,8,7
+dancing,9,7
+drumline,8,7
+event,9,7
+fat,20,14
+field,7,7
+fifth,7,7
+footage,12,11
+high school,8,8
+percussion,7,7
+preview,39,44
+quarter,7,7
+review,24,14
+rivalry,7,7
+stadium,7,7
+tell,23,13
+zero,9,7
+4 may 2017,8,3
+full episode,77,48
+last episode,15,11
+latest episode,12,10
+love,39,21
+romantic,24,18
+serial,64,44
+star plus,26,22
+today episode,32,26
+watch,8,2
+zee,15,9
+zee serial,5,5
+hide,8,2
+fa radio,6,2
+hot news,6,2
+radio free,6,2
+radio news,6,2
+radio news 2017,6,2
+san,6,2
+sound,10,6
+experimental,1,1
+logic pro x,1,1
+music,21,5
+new,47,18
+song,28,2
+2017,85,66
+beyond vine,1,1
+beyond vine compilation,1,1
+compilation,9,4
+new,47,18
+vine compilation,1,1
+last episode,15,11
+today episode,32,26
+upcoming,13,11
+e sports,3,3
+gen,3,3
+montage,9,5
+overwatch,14,3
+soldier,3,3
+2017,85,66
+alec,1,1
+baby,14,9
+boss,1,2
+boss baby,5,3
+boss baby movie,1,1
+boss baby trailer,1,1
+boss baby trailer 2017,1,1
+film,8,3
+movie,15,7
+official,7,3
+official trailer,2,1
+trailer,17,11
+5th may 2017,21,4
+full episode,77,48
+kilo,2,2
+kilo 5th may 2017,2,2
+kilo 5th may2017 full episode,2,2
+kilo 5th may2017 full episode watch,2,2
+kilo full,2,2
+kilo full episode 5th may 2017,2,2
+kilo latest episode,2,2
+latest,45,43
+news,148,59
+serial,64,44
+today,41,40
+funny,61,32
+jake tapper,1,1
+trump,42,24
+funny,61,32
+2017,85,66
+bole,3,3
+bole 4th may 2017,1,2
+bole full episode,2,3
+bole full launch video,1,1
+bole full video,1,1
+bole new show,1,1
+bole serial,2,3
+bole star plus,3,3
+bole today,2,3
+episode,46,42
+full episode,77,48
+latest,45,43
+latest news,11,4
+location,22,21
+may 4 day year,12,13
+new,47,18
+preview,39,44
+serial,64,44
+shoot,7,2
+television,12,5
+tell,23,13
+today,41,40
+2017,85,66
+instrumental,5,4
+type beat,0,1
+type beat 2017,0,1
+bill,8,5
+debate,8,5
+election 2016,7,4
+fox news,10,3
+mike pence,9,3
+news,148,59
+news channel,8,4
+presidential election,7,4
+trump,42,24
+comedian,5,1
+comedy,64,23
+comedy central,4,1
+daily show,6,1
+discrimination,1,1
+family,25,4
+funny,61,32
+funny clips,2,1
+funny video,8,1
+hasan,1,1
+hilarious,6,2
+hilarious clips,2,1
+immigration,1,1
+late night talk show,2,1
+racing,6,2
+racism,1,1
+rage,3,3
+religion,1,1
+stand,2,1
+trump,42,24
+voting,1,1
+beautiful,16,10
+comedy,64,23
+cute,17,8
+girl,16,10
+love,39,21
+clothing,3,1
+digital culture,1,1
+fabric,1,1
+fashion,8,3
+innovation,1,1
+jacket,1,1
+make,9,3
+outdoors,3,3
+retail,1,1
+science,12,6
+style,2,1
+tech,3,1
+tech insider,1,1
+technology,2,1
+ti,1,1
+bear,0,1
+boss baby,5,3
+color,6,6
+colors,42,25
+colors learn,8,2
+finger family,8,6
+finger family nursery,3,2
+finger family nursery wrong,2,2
+gummy bear,4,2
+hulk,8,2
+learn,22,16
+masha,2,2
+masha bear,2,2
+paw patrol,8,7
+pig,8,6
+pig 2016,1,1
+pig en,0,2
+wrong,2,2
+e sports,3,3
+gen,3,3
+montage,9,5
+overwatch,14,3
+soldier,3,3
+level,3,2
+oh,3,3
+real estate,10,10
+residential,8,8
+sale,10,8
+virtual tour,8,8
+billionaire jack successful,1,1
+dont help successful people,1,1
+growing business small,1,1
+help people want successful,1,1
+jack success,2,1
+small beautiful,1,1
+start dream,1,1
+success,2,1
+success motivation,1,1
+successful people,1,1
