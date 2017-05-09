@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  <link rel="stylesheet" type="text/css" href="webapp.css">
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="bootstrap3-typeahead.min.js"></script>
+
+  <!-- DO STUFF BEFORE PAGE LOADED -->
+  <script src="webapp.js"></script>
+	<title>YouTube Tag Search</title>
+  </head>
+
+  <body id="page_top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <nav class="navbar navbar-custom navbar-fixed-top">
+      <div class="container-fluid">
+<!--         <div class="navbar-header">
+          <a class="navbar-brand" href="#">YouTube Tag Search</a>
+        </div> -->
+        <ul class="nav navbar-nav navbar-right">
+          <li><li><a href="#viz">Visualizations</a></li></li>
+          <li><a href="../index.html"><span class="glyphicon glyphicon-log-out"></span> BLOG</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div id="wrapper">
+      <header class="info">
+        <div class="container-fluid">
+          <h1 align="center">YouTube Tag Search</h1>
+          <div id="about-app">
+            <p align="center">search for tags of youtube videos<br></p>
+          </div>
+        </div>
+      </header>
+      <div class="container search">
+        <form id="tag-search" class="navbar-form" role="search">
+          <div class="form-group" id="prefetch">
+            <input type="text" class="form-control typeahead" data-provide="typeahead" placeholder="filter tags" onfocus="this.placeholder=''" onblur="this.placeholder='filter tags'">
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      </div>
+      <table class="container-fluid" style="width: 100%; overflow: hidden">
+        <tr class="row">
+          <td class="cell" id="tags-cell">  
+            <div id="paris" class="tag">paris</div>
+            <div id="funny" class="tag">funny</div>
+            <div id="tutorial" class="tag">tutorial</div>
+            <div id="diy" class="tag">diy</div>
+            <div id="comedy" class="tag">comedy</div>
+            <div id="family friendly" class="tag">family friendly</div>
+            <div id="movie" class="tag">movie</div>
+            <div id="reaction" class="tag">reaction</div>
+            <div id="playthrough" class="tag">playthrough</div>
+            <div id="overwatch" class="tag">overwatch</div>
+            <div id="how to" class="tag">how to</div>
+            <div id="playthrough" class="tag">playthrough</div>
+            <div id="vlog" class="tag">vlog</div>
+            <div id="prank" class="tag">prank</div>
+            <div id="insane" class="tag">insane</div>
+            <div id="view" class="tag">view</div>
+            <div id="news" class="tag">news</div>
+            <div id="pc" class="tag">pc</div>
+            <div id="tasty" class="tag">tasty</div>
+            <div id="look" class="tag">look</div>
+            <div id="kid-friendly" class="tag">kid-friendly</div>
+            <div id="cosmetic" class="tag">cosmetic</div>
+            <div id="lifestyle" class="tag">lifestyle</div>
+            <div id="step by step" class="tag">step by step</div>
+            <div id="school" class="tag">school</div>
+            <div id="video" class="tag">philadelphia</div>
+            <div id="video" class="tag">cats</div>
+            <div id="video" class="tag">rollercoaster</div>
+            <div id="video" class="tag">ed sheeran</div>
+            <div id="video" class="tag">life</div>
+            <div id="video" class="tag">food</div>
+            <div id="video" class="tag">skiing</div>
+            <div id="video" class="tag">gaming</div>
+            <div id="video" class="tag">league of legends</div>
+            <div id="video" class="tag">parrot</div>
+            <div id="video" class="tag">swimming</div>
+            <div id="video" class="tag">yolo</div>
+            <div id="video" class="tag">jimmy fallon</div>
+            <div id="video" class="tag">ice cream</div>
+            <div id="video" class="tag">cookie dough</div>
+            <div id="video" class="tag">macintosh</div>
+            <div id="video" class="tag">iphone</div>
+            <div id="video" class="tag">google</div>
+            <div id="video" class="tag">animal</div>
+            <div id="video" class="tag">coffee</div>
+            <div id="video" class="tag">starbucks</div>
+            <div id="video" class="tag">watch</div>
+            <div id="video" class="tag">time</div>
+            <div id="video" class="tag">water</div>
+            <div id="video" class="tag">youtube</div>
+            <div id="video" class="tag">mathematics</div>
+            <div id="video" class="tag">art</div>
+            <div id="video" class="tag">coconut</div>
+            <div id="video" class="tag">game of thrones</div>
+            <div id="video" class="tag">netflix</div>
+            <div id="video" class="tag">college</div>
+            <div id="video" class="tag">buzzfeed</div>
+            <div id="video" class="tag">corgi</div>
+            <div id="video" class="tag">burp</div>
+            <div id="video" class="tag">sick</div>
+            <div id="video" class="tag">burrito</div>
+            <div id="video" class="tag">chipotle</div>
+            <div id="video" class="tag">yum</div>
+            <div id="video" class="tag">arthritis</div>
+            <div id="video" class="tag">burp</div>
+            <div id="video" class="tag">sick</div>
+            <div id="video" class="tag">burrito</div>
+            <div id="video" class="tag">chipotle</div>
+            <div id="video" class="tag">yum</div>
+            <div id="video" class="tag">arthritis</div>
+            <div id="video" class="tag">burp</div>
+            <div id="video" class="tag">sick</div>
+            <div id="video" class="tag">burrito</div>
+            <div id="video" class="tag">chipotle</div>
+            <div id="video" class="tag">yum</div>
+            <div id="video" class="tag">arthritis</div>
+            <div id="video" class="tag">burp</div>
+            <div id="video" class="tag">sick</div>
+            <div id="video" class="tag">burrito</div>
+            <div id="video" class="tag">chipotle</div>
+            <div id="video" class="tag">yum</div>
+            <div id="video" class="tag">arthritis</div>
+          </td>
+          <td class="cell" id="results-cell"> 
+            <div class="result">
+              <iframe src="https://www.youtube.com/embed/Ek9yw4JdEF0"
+                width="560" height="315" frameborder="0" allowfullscreen></iframe>
+            </div>  
+            <div class="result">
+              <iframe src="https://www.youtube.com/embed/vf7HlGbxKCI"
+                width="560" height="315" frameborder="0" allowfullscreen></iframe>
+            </div>  
+            <div class="result">
+              <iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+                width="560" height="315" frameborder="0" allowfullscreen></iframe>
+            </div>  
+            <div class="result">
+              <iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+                width="560" height="315" frameborder="0" allowfullscreen></iframe>
+            </div>     
+          </td>
+        </tr>
+      </table>
+    </div>
+
+
+  </body>
+
+</html>
+

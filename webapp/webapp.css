@@ -1,0 +1,50 @@
+body {
+	padding-top:50px;
+}
+
+#wrapper {
+}
+
+.search {
+	text-align: center;
+}
+
+.cell {
+	margin:10px;
+	padding: 10px;
+}
+
+#tags-cell {
+	margin-right: 0px;
+	width: 650px; 
+	float: left;
+	overflow-y: auto;
+	overflow-x: hidden;
+	border-radius: 15px;
+    border: 2px solid grey; 
+}
+
+.tag {
+	margin: 2px;
+	border-radius: 10px;
+	border: 2px solid red;
+	padding:10px;
+	display: inline-block;
+}
+
+div.tag:hover{
+    background-color: #E3E3E3;
+}
+
+#results-cell {
+	margin-left: 0px;
+}
+
+.result {
+	padding:10px;
+	border-radius: 10px;
+	border: 1px solid grey;
+	margin: 10px;
+	margin-top:0px;
+	box-shadow: 0 0 10px 1px grey;
+}
