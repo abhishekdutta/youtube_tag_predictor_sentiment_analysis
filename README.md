@@ -1,5 +1,6 @@
 # youtube-data-trends-predictor
-We are using YouTube videos to analyze interesting trends and predict associated with each video and it's sentiment analysis
+
+We are using YouTube videos to analyze interesting trends and predict tags associated with each video and perform sentiment analysis on those videos.
 
 
 ---------------------------------------------------------
@@ -10,7 +11,7 @@ We are using YouTube videos to analyze interesting trends and predict associated
 
 
 ---------------------------------------------------------
-## This is CS1951a Final Project Source Page [[Website]](https://pengyangwu.github.io/CS1951a/)
+## This is the Data Science (CS1951a) Final Project Website [[Click Here]](https://pengyangwu.github.io/CS1951a/)
 ---------------------------------------------------------
 
 ---------------------------------------------------------
