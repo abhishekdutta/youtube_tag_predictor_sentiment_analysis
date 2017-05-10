@@ -38,26 +38,40 @@ $(document).ready(function(){
     });
 
     $("#tag-search").submit(function(event) {
-        var value = $("#query").val();
+        return checkQuery(event, searchVideos);
+    });
 
+    function checkQuery(event, next) {
+        var value = $("#query").val();
         if ($.trim(value).length === 0) {
             $('#error-message').show();
             return false;
         } else {
-            $.get( "/searchVideos", { query: value} )
-                .done(function( data ) {
-
-                    alert( "Data Loaded: " + data );
-                });
+            return next(value);
         }
-    });
+    }
+
 
     $(".tag").on('click', function() {
         var query = this.id;
-        getVideos(query);
+        searchVideos(query);
     });
 
-    function getVideos(query) {
-
+    function searchVideos(data) {
+        $.ajax({
+            url: "http://localhost:1881/searchVideos",
+            type: "get", //send it through get method
+            data: {query: data},
+            success: function(response) {
+                response.forEach(function(video) {
+                    console.log(video);
+                });
+                return true;
+            },
+            error: function(err) {
+                alert(err);
+                return false;
+            }
+        });
     }
 });
