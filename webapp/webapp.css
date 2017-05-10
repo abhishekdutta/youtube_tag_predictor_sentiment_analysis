@@ -13,12 +13,12 @@ body {
 	display: none;
 }
 
-.has-error input[type=text], 
+/*.has-error input[type=text], 
 .has-error select {
     border-color: #2f2f2f;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-}
+}*/
 
 .table {
 	margin-top: 10px;
@@ -31,6 +31,7 @@ body {
 
 #tags-cell {
 	margin-right: 0px;
+	height:3525px;
 	width: 650px; 
 	float: left;
 	overflow-y: auto;
@@ -62,4 +63,52 @@ div.tag:hover{
 	margin: 10px;
 	margin-top:0px;
 	box-shadow: 0 0 10px 1px grey;
+	position:relative;
+}
+
+.result:hover {
+  opacity: 0.3;
+}
+
+.onhover {
+  transition: .3s ease;
+  opacity: 0;
+  width: 100%;
+  height: 40%;
+  position:absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.sentiment {
+	font-size: 300%;
+}
+
+.glyphicon {
+	padding-right: 10px;
+}
+
+.go_to_youtube {
+	font-size: 300%;
+	padding-left: 50px;
+}
+
+.positive {
+	color: red;
+}
+
+.negative {
+	color: blue;
+}
+
+.neutral {
+	color: yellow;
+}
+
+.onhover:hover {
+  opacity: 1;
 }

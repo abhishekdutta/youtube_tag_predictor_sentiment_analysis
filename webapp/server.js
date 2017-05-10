@@ -46,13 +46,11 @@ app.get('/loadTags', function(request, response) {
 app.get('/searchVideos', function(request, response) {
 	console.log(request.url);
 	var arg = request.url.substr(20);
-	console.log("DASDASD");
 	console.log(arg);
-	var sql = "SELECT video_info.video_id, title, popularity, sentiment_percentage, sentiment_category " 
+	var sql = "SELECT video_info.video_id AS video_id, title, popularity, sentiment_percentage, sentiment_category " 
 			+ "FROM video_info JOIN tag_to_video ON video_info.video_id = tag_to_video.video_id AND tag=? " 
 			+ "ORDER BY popularity DESC LIMIT 10;"
 	conn.query(sql, [arg], function(error, result) {
-		console.log(error);
 		console.log(result);
 		response.json(result);
 	});

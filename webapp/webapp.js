@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    var $default_videos = $("#results-cell").find($(".result"));
 
     var tags = new Bloodhound({
         datumTokenizer: Bloodhound.tokenizers.obj.whitespace('tag'),
@@ -38,11 +39,14 @@ $(document).ready(function(){
     });
 
     $("#tag-search").submit(function(event) {
+        event.preventDefault();
+
         return checkQuery(event, searchVideos);
     });
 
     function checkQuery(event, next) {
         var value = $("#query").val();
+        console.log(value);
         if ($.trim(value).length === 0) {
             $('#error-message').show();
             return false;
@@ -62,16 +66,47 @@ $(document).ready(function(){
             url: "http://localhost:1881/searchVideos",
             type: "get", //send it through get method
             data: {query: data},
-            success: function(response) {
-                response.forEach(function(video) {
-                    console.log(video);
-                });
-                return true;
+            success: function(data){
+                appendVideos(data);
             },
             error: function(err) {
                 alert(err);
                 return false;
             }
         });
+    }
+
+    function appendVideos(data) {
+        var curr_videos = $("#results-cell").find($(".result"));
+        var i = 0;
+        var $vid = $(curr_videos[i]);
+        data.forEach(function(video, next) {
+            $vid.attr('id', video.video_id);
+            console.log($vid.find('iframe'));
+            $vid.find('iframe').attr('src', 'http://youtube.com/embed/'+video.video_id);
+            var $sent = $vid.find(".sentiment")
+            $sent.text(video.sentiment_percentage);
+            $sent.removeClass();
+            $sent.addClass("sentiment " + video.sentiment_category);
+            $vid.find('a').attr('href', 'http://youtube.com/watch?v=' + video.video_id);
+            $vid.show();
+            i++;
+            $vid = $(curr_videos[i]);
+        });
+        console.log($vid)
+        if (i === data.length) {
+            for (i; i < 10; i++) {
+                $vid = $(curr_videos[i]);
+                $vid.hide();
+            }
+            console.log(i);
+            console.log(curr_videos[1])
+            if (i === 10){
+                console.log(curr_videos);
+                $("#results-cell").append(curr_videos);
+                console.log($("results-cell").find("*"));
+
+            }
+        }
     }
 });
