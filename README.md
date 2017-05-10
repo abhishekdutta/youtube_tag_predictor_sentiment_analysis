@@ -1,5 +1,6 @@
 # youtube-data-trends-predictor
-We are using YouTube videos to analyze interesting trends and predict associated with each video and it's sentiment analysis
+
+We are using YouTube videos to analyze interesting trends and predict tags associated with each video and perform sentiment analysis on those videos.
 
 
 ---------------------------------------------------------
