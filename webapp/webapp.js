@@ -1,39 +1,54 @@
 $(document).ready(function(){
-    //var tags = []
-    // $.get('tags.txt', function(data) {
-    //     console.log(data)
-    //     tags = data;
-    // });
 
     var tags = new Bloodhound({
-      datumTokenizer: Bloodhound.tokenizers.whitespace,
-      queryTokenizer: Bloodhound.tokenizers.whitespace,
-      // url points to a json file that contains an array of country names, see
-      // https://github.com/twitter/typeahead.js/blob/gh-pages/data/countries.json
-      prefetch: {
-        url: 'http://localhost:1881/loadTags',
-        filter: function(tags){console.log(tags)}
-    //     filter: function(response) {      
-    //   return response.countries;
-    // }
-      }
+        datumTokenizer: Bloodhound.tokenizers.obj.whitespace('tag'),
+        queryTokenizer: Bloodhound.tokenizers.whitespace,
+        identify: function(obj) { return obj.tag; },
+        // sorter : function(a, b) {
+        //     console.log(a);
+        //     console.log(typeof a);
+        //     if (a.tag.length < b.tag.length) {
+        //             return -1;
+        //         } else if (a.tag.length > b.count.tag.length) {
+        //             return 1;
+        //         } else
+        //             return 0;
+        //     },
+        prefetch: {
+            url: 'http://localhost:1881/loadTags'
+        }
     });
 
-    $('#prefetch .typeahead').typeahead({
-        //source: tags,
-        name: 'tags',
-        source: tags, 
-        minLength: 1,
-        items: 8,
-        highlight: true
+    $('#query').typeahead({
+            minLength: 1,
+            items: 10,
+            highlight: true
+        }, 
+        {
+            name: 'tags',
+            display: 'tag',
+            source: tags
+    }).blur(function() {
+        // var text = $(this).val();
+        // if(text.length > 0){
+        //     console.log("YOOO");
+        //     $('#prefetch').addClass('.has-error');
+        //     return false;
+        // }
     });
 
     $("#tag-search").submit(function(event) {
-        var value = $("input:first").val();
-        if ($.trim(value).length === 0) {
+        var value = $("#query").val();
 
+        if ($.trim(value).length === 0) {
+            $('#error-message').show();
+            return false;
         } else {
-            
+            $.get( "/searchVideos", { query: value} )
+                .done(function( data ) {
+
+                    alert( "Data Loaded: " + data );
+                });
         }
     });
 
