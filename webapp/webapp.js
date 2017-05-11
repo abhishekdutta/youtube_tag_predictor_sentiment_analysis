@@ -99,8 +99,7 @@ $(document).ready(function(){
                 $vid = $(curr_videos[i]);
                 $vid.hide();
             }
-            console.log(i);
-            console.log(curr_videos[1])
+
             if (i === 10){
                 console.log(curr_videos);
                 $("#results-cell").append(curr_videos);
