@@ -1,6 +1,6 @@
 # youtube_tag_predictor_sentiment_analysis
 
-We are using YouTube videos to analyze and predict tags associated with each video (using Machine Learning technique) and find interesting trends by performing sentiment analysis on the top 10 trending videos using title, description and comments.
+We are using YouTube videos to analyze and predict tags associated with each video using Machine Learning techniques and find interesting trends by performing sentiment analysis using Natural Language Processing on the top 10 trending videos in YouTube using title, description and comments.
 
 ---------------------------------------------------------
 ##        Back end (Part 2): Prepocessing (Extraction, Cleaning and Condensing), Machine Learning and Sentiment Analysis Model
