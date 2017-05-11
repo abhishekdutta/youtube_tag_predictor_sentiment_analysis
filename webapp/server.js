@@ -45,7 +45,7 @@ app.get('/loadTags', function(request, response) {
 
 app.get('/searchVideos', function(request, response) {
 	console.log(request.url);
-	var arg = request.url.substr(20);
+	var arg = request.url.substr(20).replace(/-/g, ' ');
 	console.log(arg);
 	var sql = "SELECT video_info.video_id AS video_id, title, popularity, sentiment_percentage, sentiment_category " 
 			+ "FROM video_info JOIN tag_to_video ON video_info.video_id = tag_to_video.video_id AND tag=? " 

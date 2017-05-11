@@ -61,7 +61,8 @@
           <script type="text/javascript">
             $.get('http://localhost:1881/loadTags', function(data) {
               data.forEach(function(datum) {
-                var obj = "<div id=" + datum.tag + " class='tag'>" + datum.tag + "</div>";
+                var id=datum.tag.replace(/ /g , '-');
+                var obj = "<div id=" + id + " class='tag'>" + datum.tag + "</div>";
                 $('#tags-cell').append(obj);
               });
             })
