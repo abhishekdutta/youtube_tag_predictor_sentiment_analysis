@@ -5,12 +5,13 @@ var PORT_NUMBER = 1881;
 var express = require('express');
 
 //Establish MySQL DB
+var config = require('./config');
 var mysql = require('mysql');
 var conn = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'root',
-  password : 'password',
-  database : 'youtube_data'
+  host     : config.db.host,
+  user     : config.db.user,
+  password : config.db.password,
+  database : config.db.database
 });
 
 conn.connect();
